@@ -9,10 +9,9 @@ def matrix_creation(key):
                 set_.add(char)
     
     for char in "ABCDEFGHIKLMNOPQRSTUVWXYZ":
-        if char.isalpha(): 
-            if char not in set_:
-                matrix.append(char)
-                set_.add(char)
+        if char not in set_:
+            matrix.append(char)
+            set_.add(char)
     
     return [matrix[i:i+5] for i in range(0,25,5)]
 

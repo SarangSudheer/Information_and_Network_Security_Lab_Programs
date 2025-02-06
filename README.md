@@ -63,12 +63,12 @@ Read the steps given in detail below ...
    - Jump to [Playfair Cipher](./Cipher_Codes/Play%20Fair%20Cipher/)
 2. 🔄 **Caesar Cipher** :
    - Shift-based substitution cipher.
-   - Jump to [Playfair Cipher](./Cipher_Codes/Ceasar%20Cipher/)
+   - Jump to [Caesar Ciphe](./Cipher_Codes/Ceasar%20Cipher/)
 3. 🔢 **Hill Cipher** :
    - Matrix multiplication-based cipher.
-   - Jump to [Playfair Cipher](./Cipher_Codes/Hill%20Cipher/)
+   - Jump to [Hill Cipher](./Cipher_Codes/Hill%20Cipher/)
 4. 🔠 **MonoAlphabetic Cipher** :
    - Substitution map-based cipher.
-   - Jump to [Playfair Cipher](./Cipher_Codes/Mono-Alphabetic%20Cipher/)
+   - Jump to [MonoAlphabetic Cipher](./Cipher_Codes/Mono-Alphabetic%20Cipher/)
 
 

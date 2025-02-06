@@ -5,13 +5,13 @@ This repository contains implementations of various ciphers and cryptographic al
 🔗 GitHub Repository: [Information_and_Network_Security_Lab_Programs](https://github.com/SarangSudheer/Information_and_Network_Security_Lab_Programs)
 
 ## 📋 Table of Contents
-- [🔧 Tech Stack](#tech-stack)
-- [✨ Features](#features)
-- [⚙️ Setup and Installation](#setup-and-installation)
-- [💻 How to Run](#how-to-run)
-  - [🏠 Running Locally](#running-locally)
-  - [🌐 Running on GitHub Codespaces](#running-on-github-codespaces)
-- [🔑 Ciphers Included](#ciphers-included)
+- [🔧 Tech Stack](#-tech-stack)
+- [✨ Features](#-features)
+- [⚙️ Setup and Installation](#-setup-and-installation)
+- [💻 How to Run](#-how-to-run)
+  - [🏠 Running Locally](#-running-locally)
+  - [🌐 Running on GitHub Codespaces](#-running-on-github-codespaces)
+- [🔑 Ciphers Included](#-ciphers-included)
 
 ## 🔧 Tech Stack
 - **Programming Language**: Python

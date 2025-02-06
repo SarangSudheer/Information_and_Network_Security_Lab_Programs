@@ -60,11 +60,15 @@ Read the steps given in detail below ...
 ## 🔑 Ciphers Included
 1. 🔐 **Playfair Cipher** :
    - Encryption and decryption functionalities for a 5x5 matrix cipher.
+   - Jump to [Playfair Cipher](./Cipher_Codes/Play%20Fair%20Cipher/)
 2. 🔄 **Caesar Cipher** :
    - Shift-based substitution cipher.
+   - Jump to [Playfair Cipher](./Cipher_Codes/Ceasar%20Cipher/)
 3. 🔢 **Hill Cipher** :
    - Matrix multiplication-based cipher.
+   - Jump to [Playfair Cipher](./Cipher_Codes/Hill%20Cipher/)
 4. 🔠 **MonoAlphabetic Cipher** :
    - Substitution map-based cipher.
+   - Jump to [Playfair Cipher](./Cipher_Codes/Mono-Alphabetic%20Cipher/)
 
 

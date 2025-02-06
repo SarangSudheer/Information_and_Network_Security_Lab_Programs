@@ -9,6 +9,10 @@ def text_to_numbers(msg,n):
 def number_to_text(cipher_num_list):
     return "".join(chr(num+ord("A")) for num in cipher_num_list)
 
+'''def inverrse_matrix(key,n):
+    print(np.linalg.inv(np.array(text_to_numbers(key,n)).reshape(n,n)))
+    return np.linalg.inv(np.array(text_to_numbers(key,n)).reshape(n,n)).astype(int)'''
+
 def encryption(msg,key):
     n=math.ceil(len(key)**0.5)
     text_matrix=text_to_numbers(msg,n)
@@ -23,9 +27,10 @@ def encryption(msg,key):
     return number_to_text(cipher_num_list)
 
 '''def decryption(encrypt,key):
-    text_matrix=text_to_numbers(encrypt)
     n=int(len(key)**0.5)
-    inv_key_matrix=np.linalg.inv(np.array(text_to_numbers(key)).reshape(n,n))
+    text_matrix=text_to_numbers(encrypt,n)
+    
+    inv_key_matrix=inverrse_matrix(key,n)#np.linalg.inv(np.array(text_to_numbers(key)).reshape(kn,kn))
     text_num_list=[]
 
     for i in range(0,len(text_matrix),n):
@@ -38,7 +43,8 @@ def encryption(msg,key):
 
 
 msg=input("Enter the message: ").upper().replace(" ","")
-key=input("Enter the key: ").upper().replace(" ","")#np.array([[6, 24, 1], [13, 16, 10], [20, 17, 15]]) 
+key=input("Enter the key: ").upper().replace(" ","")
+#key="GYBNQKURP"#np.array([[6, 24, 1], [13, 16, 10], [20, 17, 15]]) 
 encrypt=encryption(msg,key)
 print(encrypt)
 '''decrypt=decryption(encrypt,key)

@@ -120,7 +120,7 @@ Read the steps given in detail below ...
 1. Open the repository in GitHub and click on the **Code** button.
 2. Select **Create Codespace on Main**.
 3. Once the Codespace is ready, open the terminal and navigate to the desired cipher folder.
-4. Follow the [🏠 Running Locally](#running-locally) steps for Python programs.
+4. Follow the [🏠 Running Locally](#-running-locally) steps for Python programs.
 
 ## 🏁 Conclusion
 This hybrid cipher leverages **AES-128** for confusion and **random permutation** for diffusion, eliminating recognizable patterns and preventing cryptanalysis attacks.

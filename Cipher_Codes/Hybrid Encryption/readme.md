@@ -1,7 +1,7 @@
 # Hybrid Encryption System
 
 ## 📋 Table of Contents
-- [📖 Introduction](#-📖-introduction)
+- [📖 Introduction](#📖-introduction)
 - [⚙️ Design and Implementation of Hybrid Cipher](#design-and-implementation-of-hybrid-cipher)
   - [🎯 Design Goals](#design-goals)
   - [🛠️ Steps in Design](#steps-in-design)

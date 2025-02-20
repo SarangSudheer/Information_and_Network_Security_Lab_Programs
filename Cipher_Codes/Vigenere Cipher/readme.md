@@ -19,7 +19,7 @@
 ### Running Locally
 1. Clone the repository:
    ```sh
-   gh repo clone YourUsername/Vigenere-Cipher
+   gh repo clone SarangSudheer/Information_and_Network_Security_Lab_Programs
    ```
 2. Navigate to the directory:
    ```sh

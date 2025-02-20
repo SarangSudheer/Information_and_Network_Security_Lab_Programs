@@ -19,7 +19,7 @@
 ### Running Locally
 1. Clone the repository:
    ```sh
-   gh repo clone YourUsername/Hill-Cipher-Implementation
+   gh repo clone SarangSudheer/Information_and_Network_Security_Lab_Programs
    ```
 2. Navigate to the directory:
    ```sh

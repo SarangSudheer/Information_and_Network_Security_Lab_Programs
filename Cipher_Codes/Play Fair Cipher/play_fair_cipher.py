@@ -16,7 +16,7 @@ def matrix_creation(key):
     return [matrix[i:i+5] for i in range(0,25,5)]
 
 def msg_processing(msg):
-    msg=msg.upper().replace('J','I')
+    msg=msg.upper().replace('J','I').replace(" ","")
     pairs=[]
     l=0
     while(l<len(msg)):

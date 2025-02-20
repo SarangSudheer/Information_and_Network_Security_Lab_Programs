@@ -22,7 +22,7 @@
    ```
 2. Navigate to the directory:
    ```sh
-   cd Cipher Codes/Playfair Cipher
+   cd Cipher_Codes/Playfair Cipher
    ```
 3. Run the script:
    ```sh

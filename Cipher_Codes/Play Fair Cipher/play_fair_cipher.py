@@ -57,6 +57,6 @@ def encryp(mat):
             cipher=cipher+(mat[(row1+1)%5][col1])+(mat[(row2+1)%5][col2])
         else:#normal case
             cipher=cipher+(mat[row1][col2])+(mat[row2][col1])
-    print(cipher)
+    print("Encrypted: ",cipher)
 encryp(mat)
 

@@ -23,7 +23,7 @@
    ```
 2. Navigate to the directory:
    ```sh
-   cd Cipher_Codes/Vigenere_Cipher
+   cd Cipher_Codes/Vigenere Cipher
    ```
 3. Run the script:
    ```sh

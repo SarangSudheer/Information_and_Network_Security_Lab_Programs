@@ -12,7 +12,7 @@ This program implements a simple DES-like key generation technique. It takes an 
 ## How to Run the Code
 
 ### Run Live
-[Click here to Run Live](https://colab.research.google.com/drive/1pCfddGe9et4ucZ1HjiKnQAaVYNSxrl9P?usp=sharing) *(Replace with actual link if available)*
+[Click here to Run Live](https://colab.research.google.com/drive/1pCfddGe9et4ucZ1HjiKnQAaVYNSxrl9P?usp=sharing) 
 
 ### Running Locally
 1. Clone the repository:

@@ -25,7 +25,7 @@ This program implements a simple DES-like key generation technique. It takes an 
    ```
 3. Run the script:
    ```sh
-   python des_keygen.py
+   python DES_keygen.py
    ```
 
 ### Running on GitHub Codespaces

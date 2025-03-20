@@ -42,7 +42,7 @@ Enter a number: 11
 Public Key:<7,77>
 Private Key:<43,77>
 Enter a msg: 5
-Cipher:  35
+Cipher:  47
 Decrypt:  5
 ```
 

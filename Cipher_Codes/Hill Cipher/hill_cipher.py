@@ -16,7 +16,7 @@ def mod_inverse(matrix, modulus):
     return (det_inv * adjugate) % modulus  # Compute modular inverse matrix
 
 def encryption(msg,key):
-    n=math.ceil(len(key)**0.5)
+    n=int(len(key)**0.5)
     text_matrix=text_to_numbers(msg,n)
     key_matrix=np.array(text_to_numbers(key,n)).reshape(n,n)
     cipher_num_list=[]
